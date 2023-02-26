@@ -6,10 +6,6 @@
   box-sizing: border-box;
 }
 
-body {
-  background: #c1c1c1;
-}
-
 #page-header {
   min-height: 50px;
 }
