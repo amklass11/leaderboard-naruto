@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <!--
 HOW TO USE:
 This is an example of how you may give instructions on setting up your project locally.
@@ -235,6 +234,3 @@ I would like to thank Microverse.
 This project is [MIT](./LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-=======
-# leaderboard-naruto
->>>>>>> 372b92bcfa7f88d3109fbcc196913f1310743cfb
