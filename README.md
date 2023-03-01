@@ -127,7 +127,7 @@ You need to have Node.js installed.
 
 ### Setup
 
-https://github.com/GraceHtet/bookstore.git
+https://github.com/amklass11/leaderboard-naruto.git
 
 Clone this repo into your desire folder and then cd into it.
 
