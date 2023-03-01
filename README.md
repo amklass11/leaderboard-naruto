@@ -56,7 +56,7 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Bookstore] <a name="Bookstore-project"></a>
+# 📖 [LeaderBoard] <a name="LeaderBoard"></a>
 
 > This is the project using reactjs.
 
@@ -66,7 +66,7 @@ After you're finished please remove all the comments and instructions!
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> I use react.js for front-end.
+> I use HTML/js for the front-end.
 
 <details>
   <summary>Client</summary>
@@ -97,7 +97,6 @@ After you're finished please remove all the comments and instructions!
 
 - *[JS OBJECTS]*
 - *[BASIC HTML]*
-- *[REACT]*
   <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LIVE DEMO -->
@@ -167,10 +166,12 @@ npm run linters
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 *Grace Htet*
+👤 **Amk Lass**
 
-- GitHub: [@githubhandle](https://github.com/GraceHtet)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/thiri-htet-418047204/)
+
+- GitHub:[@amklass11](https://github.com/amklass11)
+
+- LinkedIn:[@AmkLAss](https://www.linkedin.com/in/amk-lass-521565196/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
