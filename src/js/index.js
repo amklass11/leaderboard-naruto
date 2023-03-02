@@ -10,6 +10,9 @@ const addScoreForm = document.getElementById('add-score');
 const userField = addScoreForm.querySelector('#name');
 const scoreField = addScoreForm.querySelector('#score');
 const refreshBu = document.getElementById('refresh');
+const clearFormBu = document.querySelector('#clear-form');
+
+
 
 const createScoresMarkup = (scores) => {
   let markup = '';
@@ -88,4 +91,6 @@ const handleRefresh = async () => {
 
   addScoreForm.addEventListener('submit', handleCreateScore);
   refreshBu.addEventListener('click', handleRefresh);
+  clearFormBu.addEventListener('click', clearForm);
+
 })();
