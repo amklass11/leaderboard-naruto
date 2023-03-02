@@ -92,6 +92,9 @@ After you're finished please remove all the comments and instructions!
 https://user-images.githubusercontent.com/68339870/222517366-ac9f9478-b58e-4a1e-b987-f8b510beb451.mp4
 
 
+
+[Live Demo](https://animated-kataifi-bd05ee.netlify.app/)
+
 <!-- - [Live Demo Link]() -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
